@@ -16,7 +16,7 @@ const App = () => {
       <Courses />
       <h2 class="subtitle">Our Program</h2>
       <Programe />
-      <h2 class="subtitle">Why Arun?</h2>
+      <h2 class="subtitle">Awards Recived</h2>
       <Whyarun />
       <h2 class="subtitle">Contact us</h2>
       <Connect />

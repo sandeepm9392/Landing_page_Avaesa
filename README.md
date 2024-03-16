@@ -1,10 +1,5 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
+## Video link for Landing page 
+https://github.com/sandeepm9392/Landing_page_Avaesa/assets/111731423/3a740c85-6d07-49d9-8032-cf6b641dd723
 
 ### `npm start`
 

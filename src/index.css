@@ -450,6 +450,7 @@ nav ul {
 
 .courses {
   margin-top: 20px;
+  position:relative;
 }
 
 .courses h2 {
@@ -556,6 +557,24 @@ nav ul {
   flex-direction: row-reverse;
   justify-content: space-around;
 }
+
+.enrollmentForm{
+  position:relative;
+  margin-top:15px;
+  transform: translateX(-50%);
+  left:48%;
+  width:85%;
+  padding:30px;
+  border-radius:20px;
+  box-shadow: 0px 0xp 10px rgba( 0,0,0,0.1);
+  z-index:1;
+}
+.enrollmentForm button{
+  width:50%;
+  font-size:14px;
+  padding:10px;
+}
+
 
 /* --------------media queries for course and enroll------------- */
 @media (max-width:1300px) {
